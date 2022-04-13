@@ -46,7 +46,7 @@ IJK内核优化，增加M2音频格式支持
         {
           "name": "redirect",
           "urls": [
-            "proxy://do=live&type=txt&ext=aHR0cHM6Ly9mZW54aWFuZ21pLmNvZGluZy5uZXQvcC96Yi9kL256eS9naXQvcmF3L21hc3Rlci9tYW9saXZlLnR4dA=="
+            "proxy://do=live&type=txt&ext={Base64编码网址}"
           ]
         }
       ]
