@@ -72,6 +72,6 @@ https://c1n.cn/2
 
 ## 访客人数
 
-<img align="left" src = "https://profile-counter.glitch.me/cniop/count.svg" alt ="ALI">
+<img align="left" src = "https://profile-counter.glitch.me/cniop-m/count.svg" alt ="ALI">
 
 
