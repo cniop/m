@@ -42,7 +42,7 @@ CCTV-1综合,http://39.135.138.60:18890/PLTV/88888910/224/3221225618/index.m3u8
 CCTV-1综合,http://cctvalih5ca.v.myalicdn.com/live/cctv1_2/index.m3u8
 CCTV-1综合,http://39.134.39.39/PLTV/88888888/224/3221226247/index.m3u8
 CCTV-1综合,http://39.135.34.142:8080/000000001000/1000000001000021973/1.m3u8
-?CCTV-1综合,http://39.134.39.39/270000001322/69900158041111100000002133/index.m3u8
+CCTV-1综合,http://39.134.39.39/270000001322/69900158041111100000002133/index.m3u8
 CCTV-1综合,http://39.134.115.163:8080/PLTV/88888910/224/3221225618/index.m3u8
 CCTV-2财经,http://39.135.138.60:18890/PLTV/88888910/224/3221225619/index.m3u8
 CCTV-2财经,http://cctvalih5ca.v.myalicdn.com/live/cctv2_2/index.m3u8
@@ -69,7 +69,7 @@ CCTV-6电影,http://183.207.248.71:80/cntv/live1/cctv-6/cctv-6
 CCTV-6电影,http://112.74.200.9:88/tv000000/m3u8.php?/migu/624878396
 CCTV-7国防军事,http://39.135.138.60:18890/PLTV/88888910/224/3221225624/index.m3u8
 CCTV-7国防军事,http://39.135.32.29:6610/000000001000/1000000001000017218/1.m3u8
-?CCTV-7国防军事,http://cctvalih5ca.v.myalicdn.com/live/cctv7_2/index.m3u8
+CCTV-7国防军事,http://cctvalih5ca.v.myalicdn.com/live/cctv7_2/index.m3u8
 CCTV-7国防军事,http://39.134.39.39/270000001322/69900158041111100000002141/index.m3u8
 CCTV-7国防军事,http://39.135.34.142:8080/000000001000/1000000001000017218/1.m3u8
 CCTV-7国防军事,http://112.74.200.9:88/tv000000/m3u8.php?/migu/673168121
@@ -93,7 +93,7 @@ CCTV-11戏曲,http://183.207.248.71:80/cntv/live1/n-cctv-11/n-cctv-11
 CCTV-11戏曲,http://112.74.200.9:88/tv000000/m3u8.php?/migu/672923822
 CCTV-12社会与法,http://39.135.138.59:18890/PLTV/88888910/224/3221225629/index.m3u8
 CCTV-12社会与法,http://39.135.32.29:6610/000000001000/1000000001000032494/1.m3u8
-?CCTV-12社会与法,http://cctvalih5ca.v.myalicdn.com/live/cctv12_2/index.m3u8
+CCTV-12社会与法,http://cctvalih5ca.v.myalicdn.com/live/cctv12_2/index.m3u8
 CCTV-12社会与法,http://39.134.39.39/270000001322/69900158041111100000002147/index.m3u8
 CCTV-12社会与法,http://39.135.34.142:8080/000000001000/1000000001000032494/1.m3u8
 CCTV-12社会与法,http://112.74.200.9:88/tv000000/m3u8.php?/migu/673168185
@@ -101,25 +101,26 @@ CCTV-13新闻,http://39.135.138.60:18890/PLTV/88888910/224/3221225638/index.m3u8
 CCTV-13新闻,http://cctvalih5ca.v.myalicdn.com/live/cctv13_2/index.m3u8
 CCTV-13新闻,http://39.135.34.142:8080/000000001000/1000000002000021303/1.m3u8
 CCTV-13新闻,http://39.134.39.39/270000001322/69900158041111100000002179/index.m3u8
-CCTV-13新闻,http://183.207.248.71:80/cntv/live1/cctv-13/cctv-13CCTV-13新闻,http
-://112.74.200.9:88/tv000000/m3u8.php?/migu/672922360
+CCTV-13新闻,http://183.207.248.71:80/cntv/live1/cctv-13/cctv-13
+CCTV-13新闻,http://112.74.200.9:88/tv000000/m3u8.php?/migu/672922360
 CCTV-14少儿,http://39.135.34.142:8080/000000001000/1000000001000008170/1.m3u8
 ?CCTV-14少儿,http://39.134.66.66/PLTV/88888888/224/3221225674/index.m3u8
 CCTV-14少儿,http://39.134.115.163:8080/PLTV/88888910/224/3221225639/index.m3u8
 CCTV-14少儿,http://112.74.200.9:88/tv000000/m3u8.php?/migu/624878440
 CCTV-15音乐,http://cctvalih5ca.v.myalicdn.com/live/cctv15_2/index.m3u8
 CCTV-15音乐,http://39.135.34.142:8080/000000001000/1000000002000008163/1.m3u8
-?CCTV-15音乐,rtsp://183.252.176.54:554/PLTV/88888888/224/3221225998/10000100000000060000000002296745_0.smilCCTV-15音乐,http://183.207.248.71:80/cntv/live1/n-cctv-15/n-cctv-15CCTV-15音乐,http
-://112.74.200.9:88/tv000000/m3u8.php?/migu/673168223
-CTV-17农业农村,http://39.134.115.163:8080/PLTV/88888910/224/3221225908/index.m3u8
+CCTV-15音乐,rtsp://183.252.176.54:554/PLTV/88888888/224/3221225998/10000100000000060000000002296745_0.smil
+CCTV-15音乐,http://183.207.248.71:80/cntv/live1/n-cctv-15/n-cctv-15
+CCTV-15音乐,http://112.74.200.9:88/tv000000/m3u8.php?/migu/673168223
+CCTV-17农业农村,http://39.134.115.163:8080/PLTV/88888910/224/3221225908/index.m3u8
 CCTV-17农业农村,http://cctvalih5ca.v.myalicdn.com/live/cctv17_2/index.m3u8
 CCTV-17农业农村,http://39.134.115.163:8080/PLTV/88888910/224/3221225908/index.m3u8
-CCTV-17农业农村,http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv17/HD-8000k-1080P-cctv17CCTV-17农业农村,ht
-tp://112.74.200.9:88/tv000000/m3u8.php?/migu/673168256
+CCTV-17农业农村,http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv17/HD-8000k-1080P-cctv17
+CCTV-17农业农村,http://112.74.200.9:88/tv000000/m3u8.php?/migu/673168256
 CCTV-5+体育赛事,http://117.148.179.136/PLTV/88888888/224/3221231459/index.m3u8
 CCTV-5+体育赛事,http://iptv.tvfix.org/hls/cctv5phd.m3u8
 CCTV-5+体育赛事,http://39.135.34.142:8080/000000001000/1000000001000020505/1.m3u8
-?CCTV-5+体育赛事,http://39.134.39.39/270000001322/69900158041111100000002139/index.m3u8
+CCTV-5+体育赛事,http://39.134.39.39/270000001322/69900158041111100000002139/index.m3u8
 CCTV-5+体育赛事,http://39.134.115.163:8080/PLTV/88888910/224/3221225649/index.m3u8
 CCTV世界地理,http://117.148.179.147/PLTV/88888888/224/3221231537/index.m3u8
 CCTV电视指南,http://39.134.196.142/hlsmgsplive.miguvideo.com:8080/ws_v/2018/dszn/dszn711/1000/index.m3u8?&encrypt=
@@ -275,7 +276,8 @@ CETV-4,http://111.63.117.13:6060/030000001000/G_CETV-4/G_CETV-4.m3u8
 金鹰卡通,http://iptv.tvfix.org/hls/jykttv.m3u8
 卡酷少兒,http://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s10/index.m3u8
 卡酷少兒,http://ott.js.chinamobile.com/PLTV/4/224/3221226305/index.m3u8
-卡酷少兒,http://183.207.248.71/gitv/live1/G_KAKU/G_KAKU卡酷少兒,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226558/1.m3u8
+卡酷少兒,http://183.207.248.71/gitv/live1/G_KAKU/G_KAKU
+卡酷少兒,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226558/1.m3u8
 金鹰卡通,http://39.134.115.163:8080/PLTV/88888910/224/3221225721/index.m3u8
 
 浙江少兒,http://hw-m-l.cztv.com/channels/lantian/channel08/1080p.m3u8?k=1a7559a51eeb880b021619a07f463ac4&t=1577153787
@@ -332,7 +334,7 @@ CETV-4,http://111.63.117.13:6060/030000001000/G_CETV-4/G_CETV-4.m3u8
 儿童乐园,http://118.26.120.23:55336/tslive/c57_lb_215_600_t10/c57_lb_215_600_t10.m3u8?key=0b292c335e5837e943410c2bfa7a7387e
 儿歌大全,http://118.26.120.23:55336/tslive/c57_lb_242_600_t10/c57_lb_242_600_t10.m3u8?key=0f2a06793124310bc8499ebf63370c51a
 倒霉熊,http://118.26.120.37:55336/tslive/c54_lb_140_600_t10/c54_lb_140_600_t10.m3u8?key=0f2a06793124310bccc587b5da61b57da
-亲子小游戏,http://118.26.120.23:55336/tslive/c56_lb_178_600_t10/c56_lb_178_600_t10.m3u8?key=0b292c335e5837e94ffc1113a2140b54亲
+亲子小游戏,http://118.26.120.23:55336/tslive/c56_lb_178_600_t10/c56_lb_178_600_t10.m3u8?key=0b292c335e5837e94ffc1113a2140b54
 
 
 倒霉特熊,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/87f87ba569c147e3805f80e4844d2de9/1200.m3u8
@@ -347,14 +349,16 @@ CETV-4,http://111.63.117.13:6060/030000001000/G_CETV-4/G_CETV-4.m3u8
 熊大熊二,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/1733da751de64e6e910abda889d87a26/1200.m3u8
 熊大过年,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/7ae265653fe149069c3b53e31caaf060/1200.m3u8
 狮子王國,https://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/c2e7e767f3144bed959ef20b8b961fe5/850.m3u8
-体育,#genre#PP体育,http://117.148.179.172/PLTV/88888888/224/3221231778/index.m3u8
+体育,#genre#
+PP体育,http://117.148.179.172/PLTV/88888888/224/3221231778/index.m3u8
 CCTV5,http://iptv.tvfix.org/hls/cctv5hd.m3u8
 CCTV5,http://117.148.179.165/PLTV/88888888/224/3221231702/index.m3u8
 CCTV5+,http://117.148.179.136/PLTV/88888888/224/3221231459/index.m3u8
 风云足球,http://117.148.179.137/PLTV/88888888/224/3221231547/index.m3u8
 央视台球,http://117.148.179.167/PLTV/88888888/224/3221231616/index.m3u8
 四海钓鱼,http://117.148.179.159/PLTV/88888888/224/3221231718/index.m3u8
-广东体育,http://hongyanqiang.top/chudian.php?id=gdty五星体育,http://140.207.241.2:8080/live/program/live/ssty/4000000/mnf.m3u8
+广东体育,http://hongyanqiang.top/chudian.php?id=gdty
+五星体育,http://140.207.241.2:8080/live/program/live/ssty/4000000/mnf.m3u8
 CCTV5,http://39.134.39.39/PLTV/88888888/224/3221226224/index.m3u8
 CCTV5,http://39.135.138.59:18890/PLTV/88888910/224/3221225633/index.m3u8
 CCTV5,http://39.135.138.60:18890/PLTV/88888910/224/3221225633/index.m3u8
@@ -382,7 +386,8 @@ CCTV5+,http://39.135.138.59:18890/PLTV/88888910/224/3221225649/index.m3u8
 风尚运动,http://211.94.219.178:18080/PLTV/68/224/3221226429/index.m3u8
 超级體育,http://39.135.138.59:18890/PLTV/88888910/224/3221225622/index.m3u8
 魅力足球,http://183.207.255.188/live/program/live/mlyyhd/4000000/mnf.m3u8
-HWF散打,http://pull-g.kktv8.com/livekktv/57588147.flv游戏风云,http://183.207.255.188/live/program/live/yxfyhd/4000000/mnf.m3u8
+HWF散打,http://pull-g.kktv8.com/livekktv/57588147.flv
+游戏风云,http://183.207.255.188/live/program/live/yxfyhd/4000000/mnf.m3u8
 游戏风云,http://39.134.18.65/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226579/index.m3u8
 NBATV,https://d17f1mg1q6g54e.cloudfront.net/hls/nbatv/chunks.m3u8
 TNT,https://d17f1mg1q6g54e.cloudfront.net/hls/TNT/chunks.m3u8
